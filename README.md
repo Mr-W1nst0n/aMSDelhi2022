@@ -1,6 +1,6 @@
 # aMS Delhi 2022
 
-<img src="https://raw.githubusercontent.com/Mr-W1nst0n/M365VM2022/master/M365VM2022Banner.jpg">
+<img src="https://raw.githubusercontent.com/Mr-W1nst0n/aMSDelhi2022/master/aMSDelhi2022Banner.jpg">
 
 ## Session Topics 🥷🤖
 - Basic Concepts of PowerShell DSC
