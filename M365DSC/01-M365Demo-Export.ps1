@@ -1,8 +1,8 @@
 # Getting client credential
-$Credential = Get-Credential -Message 'Please insert the GlobalAdmin Account' -UserName 'MOD1@contoso.com'
+$Credential = Get-Credential -Message 'Please insert the GlobalAdmin Account' -UserName 'MOD1@avanadelab.com'
 
 # File Location
-$output = 'G:\'
+$output = 'C:\LAB\'
 
 # Selected Componenets
 $components = @(
