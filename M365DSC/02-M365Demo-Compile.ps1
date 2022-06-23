@@ -18,7 +18,7 @@ Configuration M365TenantEditedConfig
     if ($null -eq $Credential)
     {
         <# Credentials #>
-        $Credscredential = Get-Credential -Message 'Please insert the GlobalAdmin Account' -UserName 'MOD1@avanadelab.com'
+        $Credscredential = Get-Credential -Message 'Please insert the GlobalAdmin Account' -UserName 'MOD1@contoso.com'
     }
     else
     {
