@@ -1,5 +1,5 @@
 # Getting client credential
-$Credential = Get-Credential -Message 'Please insert the GlobalAdmin Account' -UserName 'MOD1@avanadelab.com'
+$Credential = Get-Credential -Message 'Please insert the GlobalAdmin Account' -UserName 'MOD1@contoso.com'
 
 # File Location
 $output = 'C:\LAB\'
